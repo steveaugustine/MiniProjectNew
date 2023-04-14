@@ -1,4 +1,4 @@
-# MiniProjectNew
+# MyLungs
 
 
 Our technology is based on cutting-edge machine learning algorithms that can analyze large amounts of medical data to identify patterns and trends that are not immediately apparent to human doctors. By harnessing the power of artificial intelligence, we are able to provide faster and more accurate diagnoses, which can save lives and improve outcomes for patients.
