@@ -129,13 +129,27 @@
   .slider_section .detail_box h1 {
     font-size: 3.5rem;
   }
+  .lungs{
+    padding-left: 14%;
+    padding-right: 14%;
+
+  }
 }
 
-@media (max-width: 480px) {}
+@media (max-width: 480px) {
+  .lungs{
+    padding-left: 10%;
+
+  }
+}
 
 @media (max-width: 420px) {
   .slider_section .detail_box h1 {
     font-size: 3rem;
+  }
+  .lungs{
+    padding-left: 5%;
+
   }
 }
 
@@ -144,5 +158,11 @@
 @media (min-width: 1200px) {
   .container {
     max-width: 1170px;
+
+  }
+  .lungs{
+    padding-left: 3%;
+    width: 300px !important;
+    height: 300px !important;
   }
 }
