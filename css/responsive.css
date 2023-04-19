@@ -41,6 +41,10 @@
 }
 
 @media (max-width: 768px) {
+  .lungs{
+    padding-left: 14%;
+
+  }
 
 
   .slider_section .detail_box {
